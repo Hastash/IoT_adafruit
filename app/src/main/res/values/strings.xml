@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo IoT Note10Plus</string>
+    <string name="start_date">Start Date</string>
+    <string name="generate">Generate</string>
+    <string name="intensity">Intensity</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="general_chart">GENERAL CHART</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="back">BACK</string>
+    <string name="start_date_icon">Start Date Icon</string>
+    <string name="start_time_icon">Start Time Icon</string>
+    <string name="end_date_icon">End Date Icon</string>
+    <string name="end_time_icon">End Time Icon</string>
+    <string name="iot_demo">IOT DEMO</string>
+    <string name="c">--°C</string>
+    <string name="logo">logo</string>
+</resources>

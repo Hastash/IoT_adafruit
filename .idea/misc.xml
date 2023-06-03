@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/drawable-v24/edit_calendar.xml" value="0.24166666666666667" />
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/drawable-v24/right_border.xml" value="0.24166666666666667" />
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/drawable-v24/schedule.xml" value="0.24166666666666667" />
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/layout/activity_intensity.xml" value="0.2" />
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/User_Data/BKHCM/IOT/DADN/DemoIoTNote10Plus/app/src/main/res/layout/activity_plot.xml" value="0.152" />
+        <entry key="..\:/User_Data/BKHCM/IOT/new/DemoIoTNote10Plus/app/src/main/res/layout/activity_main.xml" value="0.12092391304347826" />
+        <entry key="..\:/User_Data/BKHCM/IOT/new/DemoIoTNote10Plus/app/src/main/res/layout/activity_plot.xml" value="0.1109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
